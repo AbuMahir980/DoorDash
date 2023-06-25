@@ -18,7 +18,7 @@ img {
     z-index: 2;
     top:40px;
     right:40px;
-    font-size: 18px;
+    font-size: 15px;
     font-weight:700;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
@@ -54,45 +54,46 @@ img {
 }
 
 .icons{
-    margin-top: 50px;
+    margin-top: 40px;
     display: flex;
-    margin-left: 750px;
+    justify-content: center;
+    align-items: center;
 }
 .icons .search{
     outline: none;
-    width: 520px;
+    width: 450px;
     border: 1px solid white;
     border-radius: 30px;
-    font-size: 20px;
+    font-size: 10px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-weight: 700;
-    padding: 15px;
-    padding-left: 50px;
+    font-weight: 300;
+    padding: 12px;
+    padding-left: 35px;
     z-index: 1;
 }
 ::placeholder{
     padding-left: 1px;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 22px;
     letter-spacing: 0ch;
     font-weight: 500;
-    font-family: DD-TTNorms, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .icons .fa-location-dot{
-    font-size: 30px ;
+    font-size: 20px ;
     z-index: 2;
     position: absolute;
-    top: 215px;
-    left: 765px;
+    top: 202px;
+    left: 470px;
 }
 .icons .fa-arrow-circle-right{
-    font-size: 50px;
+    font-size: 22px;
     color: red;
     margin-right:500px;
     z-index: 2;
     position: absolute;
-    right:190px ;
-    top: 205px;
+    right:  -28px;
+    top: 200px;
 }
 
 #saved{
