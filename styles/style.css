@@ -237,14 +237,13 @@ div .button{
 }
 .Container2{
     background: rgb(255, 240, 237);
-    width: 100%;
 }
 .mini-container5 {
-    display: inline-flex;
-    margin-top: 150px;
-    margin-left: 265px;
-    margin-right: 100px;
-    margin-bottom: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1200px;
 }
 .commentb{
     display: block;
