@@ -310,4 +310,9 @@ footer a:hover{
     color: #fff;
 }
 
+footer .flex-container{
+    display: flex;
+    flex-direction: column;
+}
+
     
