@@ -339,3 +339,7 @@ footer .flex-container .flex-items .items-a{
 footer .flex-container .flex-items .items-b {
     padding-right: 90px;
 }
+
+footer .flex-container .flex-items .items-c {
+    padding-right: 150px;
+}
