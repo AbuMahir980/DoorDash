@@ -281,7 +281,7 @@ footer .footer-container{
 .grid-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 2fr 1fr;
+    grid-template-rows: 1fr 1fr;
 }
 
 .grid-container .grid1{
@@ -299,6 +299,7 @@ footer .footer-container{
 footer ul{
     list-style-type: none;
     margin-top: 10px;
+    
 }
 
 footer ul li{
@@ -306,7 +307,7 @@ footer ul li{
 }
 footer a{
     text-decoration: none;
-    color: #808080;
+    color: #c4c4c4;
     font-size: 14px;
 }
 
@@ -320,4 +321,8 @@ footer .flex-container{
     flex-direction: column;
 }
 
+footer .flex-container .flex-items{
+    display: flex;
+    justify-content: flex-start;
+}
     
