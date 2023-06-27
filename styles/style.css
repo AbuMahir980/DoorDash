@@ -279,7 +279,7 @@ footer{
     grid-column: span 3;
 }
 
-.shot{
+.flex-container .shot{
     width: 70px;
 }
 
