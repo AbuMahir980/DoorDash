@@ -327,3 +327,15 @@ footer .flex-container .flex-items{
     justify-content: flex-start;
 }
     
+
+footer .flex-container-second{
+    margin-top: 120px;
+}
+
+footer .flex-container .flex-items .items-a{
+    padding-right: 110px;
+}
+
+footer .flex-container .flex-items .items-b {
+    padding-right: 90px;
+}
