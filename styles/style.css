@@ -293,16 +293,21 @@ footer .footer-container{
 .grid-container .grid6 {
     grid-column: span 3;
 }
-.flex-container .shot{
+.flex-container-second .shot{
     width: 70px;
 }
 footer ul{
     list-style-type: none;
+    margin-top: 10px;
+}
+
+footer ul li{
+    line-height: 1.8;
 }
 footer a{
     text-decoration: none;
     color: #808080;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 footer a:hover{
