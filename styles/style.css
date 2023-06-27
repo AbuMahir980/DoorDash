@@ -347,8 +347,17 @@ footer .flex-container .flex-items .items-c {
 footer .flex-container-svg{
     display: flex;
     justify-content: flex-end;
+
 }
 
-footer .flex-container-svg .svgs{
-    
+footer .flex-container-svg .svgs div{
+    padding: 2px 8px;
+    border-radius: 8px;
+    background-color: rgb(73, 73, 73);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin-bottom: 10px;
 }
