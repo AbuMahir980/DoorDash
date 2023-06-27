@@ -286,6 +286,7 @@ footer .footer-container{
 
 .grid-container .grid1{
     grid-column: span 3;
+    
 }
 .grid-container .grid2 {
     grid-column: span 3;
@@ -299,7 +300,7 @@ footer .footer-container{
 footer ul{
     list-style-type: none;
     margin-top: 10px;
-    
+    margin-bottom: -100px;
 }
 
 footer ul li{
