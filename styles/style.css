@@ -245,6 +245,7 @@ div .button{
     margin: 0 auto;
     max-width: 1200px;
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 .commentb{
     display: block;
@@ -287,22 +288,13 @@ div .button{
 }
 footer{
     background-color: rgb(25, 25, 25);
+    
 }
 
 .shot{
     width: 70px;
 }
-.sens{
-    margin-top: 20px;
-    margin-left: 10px;
-}
-.sixth{
-    text-decoration: none;
-    justify-content: space-between;
-    font-family: DD-TTNorms, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: gray;
-    margin-left: 10px;
-    font-size: 14px;
-}
+
+
 
     
