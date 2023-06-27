@@ -275,6 +275,9 @@ footer{
     grid-template-rows: 1fr 1fr;
 }
 
+.grid-container .grid1{
+    grid-column: span 3;
+}
 
 .shot{
     width: 70px;
