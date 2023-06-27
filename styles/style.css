@@ -343,3 +343,12 @@ footer .flex-container .flex-items .items-b {
 footer .flex-container .flex-items .items-c {
     padding-right: 150px;
 }
+
+footer .flex-container-svg{
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer .flex-container-svg .svgs{
+    
+}
